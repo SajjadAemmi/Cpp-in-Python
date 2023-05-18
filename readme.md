@@ -1,4 +1,7 @@
 # Cpp-in-Python
+
+[![Python application](https://github.com/SajjadAemmi/Cpp-in-Python/actions/workflows/python-app.yml/badge.svg)](https://github.com/SajjadAemmi/Cpp-in-Python/actions/workflows/python-app.yml)
+
 Run a C++ library in a Python script using ctypes
 
 ## installation
